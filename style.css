@@ -1,0 +1,9 @@
+h1{color:rgb(250, 0, 0);}
+.bleu{color: blue;}
+.jaune{color: yellow;}
+h3{font-size: 70px;/* taille de la typo*/
+    text-align: center;/* aligner le texte au centre */}
+p{background-color: pink;/* changer la couleur de fond */
+    color: white;
+    width: 50%;/* largeur du texte sur l'écran */
+margin: auto;/* aligner son texte au centre */}
